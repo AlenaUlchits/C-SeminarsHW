@@ -1,25 +1,25 @@
-﻿void showDayOfWeek(int weekNum){
+﻿void isWeekend(int weekNum){
     switch(weekNum){
         case 1:
-        Console.WriteLine("Monday");
+        Console.WriteLine("No");
         break;
         case 2:
-        Console.WriteLine("Tuesday");
+        Console.WriteLine("No");
         break;
         case 3:
-        Console.WriteLine("Wednesday");
+        Console.WriteLine("No");
         break;
         case 4:
-        Console.WriteLine("Thursday");
+        Console.WriteLine("No");
         break;
         case 5:
-        Console.WriteLine("Friday");
+        Console.WriteLine("No");
         break;
         case 6:
-        Console.WriteLine("Saturday");
+        Console.WriteLine("Yes");
         break;
         case 0:
-        Console.WriteLine("Sunday");
+        Console.WriteLine("Yes");
         break;
         default:
         break;
@@ -28,4 +28,4 @@
 Console.Write("Enter a number");
 int num = Convert.ToInt32(Console.ReadLine());
 int numberOfWeek = num % 7;
-showDayOfWeek(numberOfWeek);
+isWeekend(numberOfWeek);
