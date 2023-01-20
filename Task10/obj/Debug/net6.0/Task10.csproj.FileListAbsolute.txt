@@ -1,0 +1,15 @@
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\bin\Debug\net6.0\Task10.exe
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\bin\Debug\net6.0\Task10.deps.json
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\bin\Debug\net6.0\Task10.runtimeconfig.json
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\bin\Debug\net6.0\Task10.dll
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\bin\Debug\net6.0\Task10.pdb
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\Task10.csproj.AssemblyReference.cache
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\Task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\Task10.AssemblyInfoInputs.cache
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\Task10.AssemblyInfo.cs
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\Task10.csproj.CoreCompileInputs.cache
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\Task10.dll
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\refint\Task10.dll
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\Task10.pdb
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\Task10.genruntimeconfig.cache
+D:\GB\seminars\HomeWork\C-SeminarsHW\Task10\obj\Debug\net6.0\ref\Task10.dll
