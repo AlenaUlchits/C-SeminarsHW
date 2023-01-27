@@ -6,6 +6,7 @@
             isPalindrome = true;
         }else{
             isPalindrome = false;
+            break;
         }
     }
     return isPalindrome;
