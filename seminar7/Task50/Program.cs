@@ -15,7 +15,8 @@ int[,] GenerateArray(int n, int m){
         }
     }
     return arr;
-}int n = new Random().Next(3, 4);
+}
+int n = new Random().Next(3, 4);
 int m = new Random().Next(3, 4);
 int[,] array = GenerateArray(n, m);
 PrintArray(array);
