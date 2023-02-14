@@ -28,5 +28,4 @@ int row = new Random().Next(2, 4);
 int col = new Random().Next(2, 4);
 int lev = new Random().Next(2, 4);
 int[,,] array = GenerateArray(row, col, lev);
- Console.WriteLine($"({row}, {col}, {lev})");
 PrintArray(array);
